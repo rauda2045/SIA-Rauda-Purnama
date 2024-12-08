@@ -1,0 +1,21 @@
+ID_Persediaan,ID_Produk,Nama_Produk,Kategori,Jumlah_Stok
+1,PRD001,Produk A,Elektronik,50
+2,PRD002,Produk B,Pakaian,70
+3,PRD003,Produk C,Elektronik,90
+4,PRD004,Produk D,Pakaian,60
+5,PRD005,Produk E,Elektronik,100
+6,PRD006,Produk F,Pakaian,80
+7,PRD007,Produk G,Elektronik,120
+8,PRD008,Produk H,Pakaian,50
+9,PRD009,Produk I,Elektronik,110
+10,PRD010,Produk J,Pakaian,90
+11,PRD011,Produk K,Elektronik,40
+12,PRD012,Produk L,Pakaian,100
+13,PRD013,Produk M,Elektronik,70
+14,PRD014,Produk N,Pakaian,120
+15,PRD015,Produk O,Elektronik,60
+16,PRD016,Produk P,Pakaian,110
+17,PRD017,Produk Q,Elektronik,50
+18,PRD018,Produk R,Pakaian,130
+19,PRD019,Produk S,Elektronik,90
+20,PRD020,Produk T,Pakaian,100
